@@ -1,0 +1,26 @@
+C:\Users\hieu\Documents\2A\projet_info\Final_Le baillis\Final_Le baillis\bin\Release\Final_Le baillis.exe.config
+C:\Users\hieu\Documents\2A\projet_info\Final_Le baillis\Final_Le baillis\bin\Release\Final_Le baillis.exe
+C:\Users\hieu\Documents\2A\projet_info\Final_Le baillis\Final_Le baillis\bin\Release\Final_Le baillis.pdb
+C:\Users\hieu\Documents\2A\projet_info\Final_Le baillis\Final_Le baillis\obj\Release\Final_Le baillis.csprojResolveAssemblyReference.cache
+C:\Users\hieu\Documents\2A\projet_info\Final_Le baillis\Final_Le baillis\obj\Release\Final_Le_baillis.CBoard2.resources
+C:\Users\hieu\Documents\2A\projet_info\Final_Le baillis\Final_Le baillis\obj\Release\Final_Le_baillis.CBoardSolo.resources
+C:\Users\hieu\Documents\2A\projet_info\Final_Le baillis\Final_Le baillis\obj\Release\Final_Le_baillis.CGraphique2.resources
+C:\Users\hieu\Documents\2A\projet_info\Final_Le baillis\Final_Le baillis\obj\Release\Final_Le_baillis.CGraphiqueSolo.resources
+C:\Users\hieu\Documents\2A\projet_info\Final_Le baillis\Final_Le baillis\obj\Release\Final_Le_baillis.CMainmenu.resources
+C:\Users\hieu\Documents\2A\projet_info\Final_Le baillis\Final_Le baillis\obj\Release\Final_Le_baillis.Properties.Resources.resources
+C:\Users\hieu\Documents\2A\projet_info\Final_Le baillis\Final_Le baillis\obj\Release\Final_Le baillis.csproj.GenerateResource.Cache
+C:\Users\hieu\Documents\2A\projet_info\Final_Le baillis\Final_Le baillis\obj\Release\Final_Le baillis.exe
+C:\Users\hieu\Documents\2A\projet_info\Final_Le baillis\Final_Le baillis\obj\Release\Final_Le baillis.pdb
+H:\Final_Le baillis\Final_Le baillis\bin\Release\Final_Le baillis.exe.config
+H:\Final_Le baillis\Final_Le baillis\obj\Release\Final_Le baillis.exe
+H:\Final_Le baillis\Final_Le baillis\obj\Release\Final_Le baillis.pdb
+H:\Final_Le baillis\Final_Le baillis\bin\Release\Final_Le baillis.exe
+H:\Final_Le baillis\Final_Le baillis\bin\Release\Final_Le baillis.pdb
+H:\Final_Le baillis\Final_Le baillis\obj\Release\Final_Le baillis.csprojResolveAssemblyReference.cache
+H:\Final_Le baillis\Final_Le baillis\obj\Release\Final_Le_baillis.CBoard2.resources
+H:\Final_Le baillis\Final_Le baillis\obj\Release\Final_Le_baillis.CBoardSolo.resources
+H:\Final_Le baillis\Final_Le baillis\obj\Release\Final_Le_baillis.CGraphique2.resources
+H:\Final_Le baillis\Final_Le baillis\obj\Release\Final_Le_baillis.CGraphiqueSolo.resources
+H:\Final_Le baillis\Final_Le baillis\obj\Release\Final_Le_baillis.CMainmenu.resources
+H:\Final_Le baillis\Final_Le baillis\obj\Release\Final_Le_baillis.Properties.Resources.resources
+H:\Final_Le baillis\Final_Le baillis\obj\Release\Final_Le baillis.csproj.GenerateResource.Cache

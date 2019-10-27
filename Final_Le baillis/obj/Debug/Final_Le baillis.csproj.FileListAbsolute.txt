@@ -1,0 +1,13 @@
+C:\Users\hieu\Documents\2A\projet_info\Final_Le baillis\Final_Le baillis\bin\Debug\Final_Le baillis.exe.config
+C:\Users\hieu\Documents\2A\projet_info\Final_Le baillis\Final_Le baillis\bin\Debug\Final_Le baillis.exe
+C:\Users\hieu\Documents\2A\projet_info\Final_Le baillis\Final_Le baillis\bin\Debug\Final_Le baillis.pdb
+C:\Users\hieu\Documents\2A\projet_info\Final_Le baillis\Final_Le baillis\obj\Debug\Final_Le_baillis.Properties.Resources.resources
+C:\Users\hieu\Documents\2A\projet_info\Final_Le baillis\Final_Le baillis\obj\Debug\Final_Le baillis.csproj.GenerateResource.Cache
+C:\Users\hieu\Documents\2A\projet_info\Final_Le baillis\Final_Le baillis\obj\Debug\Final_Le baillis.exe
+C:\Users\hieu\Documents\2A\projet_info\Final_Le baillis\Final_Le baillis\obj\Debug\Final_Le baillis.pdb
+C:\Users\hieu\Documents\2A\projet_info\Final_Le baillis\Final_Le baillis\obj\Debug\Final_Le_baillis.CBoardSolo.resources
+C:\Users\hieu\Documents\2A\projet_info\Final_Le baillis\Final_Le baillis\obj\Debug\Final_Le_baillis.CGraphiqueSolo.resources
+C:\Users\hieu\Documents\2A\projet_info\Final_Le baillis\Final_Le baillis\obj\Debug\Final_Le_baillis.CBoard2.resources
+C:\Users\hieu\Documents\2A\projet_info\Final_Le baillis\Final_Le baillis\obj\Debug\Final_Le_baillis.CGraphique2.resources
+C:\Users\hieu\Documents\2A\projet_info\Final_Le baillis\Final_Le baillis\obj\Debug\Final_Le_baillis.CMainmenu.resources
+C:\Users\hieu\Documents\2A\projet_info\Final_Le baillis\Final_Le baillis\obj\Debug\Final_Le baillis.csprojResolveAssemblyReference.cache
